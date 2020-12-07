@@ -1,0 +1,4 @@
+numpy==1.12.1
+redis==2.10.5
+telegram==0.0.1
+python-telegram-bot==6.1b0
